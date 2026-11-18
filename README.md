@@ -8,9 +8,7 @@
 
 An ad-free bus ETA site for Hong Kong, with arrival times from KMB, LWB, CTB, NLB, green minibus, light rail, and MTR, with a clutter-free UI that lets you get what you need, fast.
 
-## 關於此分支 About this fork
-
-此分支以加入 **Android 主畫面小工具** 為主要目標，讓乘客毋須開啟應用程式，即可查看已儲存車站的到站時間。小工具仍在規劃中，此分支亦會探索一些改善日常查詢體驗的小改動。
+## About this fork
 
 This fork of [HK Bus ETA](https://github.com/hkbus/hk-independent-bus-eta) focuses on adding an **Android home-screen widget** so riders can check bus arrival times for their saved stops without opening the app. It also explores small improvements to the everyday ETA experience.
 
